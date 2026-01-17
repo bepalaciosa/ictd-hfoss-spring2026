@@ -1,0 +1,112 @@
+body { 
+  font-family: system-ui, sans-serif; 
+  max-width: 900px; 
+  margin: 0 auto; 
+  padding: 2rem 1rem; 
+  line-height: 1.6; 
+  color: #222; 
+}
+
+h1, h2 { 
+  color: #005f73; 
+  border-bottom: 2px solid #e0f4ff; 
+  padding-bottom: 0.5rem; 
+}
+
+h1 { 
+  font-size: 2rem; 
+  margin-bottom: 0.5rem; 
+}
+
+h2 { 
+  font-size: 1.4rem; 
+}
+
+.meta { 
+  color: #555; 
+  font-size: 0.95rem; 
+  margin: 1rem 0; 
+}
+
+.box { 
+  border: 1px solid #ccc; 
+  padding: 1rem; 
+  margin: 1rem 0; 
+  background: #fafafa; 
+  border-radius: 4px; 
+}
+
+ul { 
+  padding-left: 1.3rem; 
+}
+
+a { 
+  color: #005f73; 
+}
+
+.twocol { 
+  display: flex; 
+  gap: 2rem; 
+}
+
+.twocol > div { 
+  flex: 1; 
+}
+
+@media (max-width: 600px) { 
+  .twocol { 
+    flex-direction: column; 
+  } 
+}
+
+
+/* ===== Footer styles ===== */
+
+.footer-divider {
+  border: 0;
+  border-top: 1px solid #cce3eb;
+  margin: 2rem 0;
+}
+
+.course-footer {
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid #cce3eb; /* lighter, subtler line */
+  font-size: 0.85rem;            /* slightly smaller text */
+  color: #666;                   /* gentle contrast */
+  text-align: left;
+  line-height: 1.4;
+}
+
+.course-footer a {
+  color: #005f73;
+  text-decoration: none;
+}
+
+.course-footer a:hover {
+  text-decoration: underline;
+}
+
+.course-footer .cc-badge {
+  vertical-align: middle;
+  height: 20px;
+  margin-right: 6px;
+  border: none;
+  opacity: 0.9;                  /* lightens the icon */
+}
+
+.course-footer strong {
+  color: #005f73;
+}
+
+.course-footer p {
+  margin: 0.4rem 0;
+}
+
+/* Optional: make footer extra subtle on small screens */
+@media (max-width: 600px) {
+  .course-footer {
+    font-size: 0.8rem;
+    line-height: 1.3;
+  }
+}
