@@ -194,8 +194,8 @@
         "day_topic": "HCD Methods & Critiques (Discussion)",
         "readings": [
           {
-            "title": "IDEO.org (2015). The Field Guide to Human-Centered Design (selections)",
-            "url": "https://www.designkit.org/resources/1"
+            "title": "IDEO Shopping Cart",
+            "url": "https://www.youtube.com/watch?v=M66ZU2PCIcM"
           },
           {
             "title": "Dearden, A., & Rizvi, H. (2008). Participatory IT Design and Participatory Development: A comparative review",
@@ -207,10 +207,6 @@
           },
           {
             "title": "Localization guides from Mozilla, WordPress, or other major FOSS projects - Browse",
-            "url": ""
-          },
-          {
-            "title": "Singh, N., et al. (2005). Culturally Customizing Websites for Global Markets (selections)",
             "url": ""
           },
           {
@@ -347,8 +343,8 @@
         "day_topic": "Project Proposals & Peer Feedback",
         "readings": [
           {
-            "title": "Read one recent paper from ICTD 2024 conference (student's choice)",
-            "url": "https://ictd.cs.washington.edu/"
+            "title": "Read one recent paper from ICTD 2024 conference proceedings (student's choice)",
+            "url": "https://dl.acm.org/doi/proceedings/10.1145/3700794"
           },
           {
             "title": "ICTworks - Browse latest posts",
@@ -432,16 +428,12 @@
             "url": "https://openmrs.org/"
           },
           {
-            "title": "Selected readings on mHealth in development",
-            "url": ""
-          },
-          {
             "title": "Ushahidi origins story and case studies",
             "url": "https://www.ushahidi.com/"
           },
           {
             "title": "Starbird, K., & Palen, L. (2011). Voluntweets: Self-Organizing by Digital Volunteers in Times of Crisis",
-            "url": ""
+            "url": "https://dl.acm.org/doi/abs/10.1145/1978942.1979102"
           },
           {
             "title": "Humanitarian OpenStreetMap Team case studies",
