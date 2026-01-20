@@ -1,0 +1,662 @@
+[
+  {
+    "week": 1,
+    "topic": "Introduction - What is ICTD? What is HFOSS?",
+    "days": [
+      {
+        "date": "1/20",
+        "day_topic": "Course Overview & Introductions",
+        "readings": [],
+        "assignments_due": []
+      },
+      {
+        "date": "1/22",
+        "day_topic": "ICTD Foundations & HFOSS Introduction",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Get to Know You Survey"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "topic": "ICTD Foundations & Development Theory",
+    "days": [
+      {
+        "date": "1/27",
+        "day_topic": "Development Theory Meets Technology (Discussion)",
+        "readings": [
+          {
+            "title": "Sen, A. (1999). Development as Freedom (skim pages 525-536. Focus on 'Poverty as Capability Deprivation', pages 537-541)",
+            "url": "https://diarium.usal.es/agustinferraro/files/2020/01/Roberts-Hite-and-Chorev-2015-The-Globalization-and-Development-Reader.pdf#page=539"
+          },
+          {
+            "title": "Zheng, Y., & Walsham, G. (2008). Inequality of what? Social exclusion in the e-society as capability deprivation (PDF available via UNM Library and uploaded to Canvas)",
+            "url": ""
+          },
+          {
+            "title": "Heeks, R. (2008). ICT4D 2.0: The Next Phase of Applying ICT for International Development (must use UNM credentials to access)",
+            "url": "https://doi.org/10.1109/MC.2008.192"
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 1 (due Sun, Jan 25, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "1/29",
+        "day_topic": "Git/GitHub Hands-On Workshop",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Assignment 1: Environment Setup & Git Fundamentals"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "topic": "Open Source Philosophy & Licensing",
+    "days": [
+      {
+        "date": "2/3",
+        "day_topic": "FOSS Philosophy & Licensing (Discussion)",
+        "readings": [
+          {
+            "title": "Raymond, E. (1999). The Cathedral and the Bazaar (Required until lesson 9, page 7 in the PDF)",
+            "url": "https://link.springer.com/article/10.1007/s12130-999-1026-0"
+          },
+          {
+            "title": "Kelty, C. (2008). Two Bits: The Cultural Significance of Free Software (Chapter 3 - The Movement)",
+            "url": "https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1169937"
+          },
+          {
+            "title": "The Free Software Definition (skim)",
+            "url": "https://www.gnu.org/philosophy/free-sw.html"
+          },
+          {
+            "title": "Stallman, R. Why Open Source Misses the Point of Free Software (skim)",
+            "url": "https://www.gnu.org/philosophy/open-source-misses-the-point.html"
+          },
+          {
+            "title": "Choose a License (skim website)",
+            "url": "https://choosealicense.com/"
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 2 (due Sun, Feb 1, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "2/5",
+        "day_topic": "Understanding FOSS Projects & Communities (Workshop)",
+        "readings": [],
+        "assignments_due": []
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "topic": "FOSS Communities & Project Evaluation",
+    "days": [
+      {
+        "date": "2/10",
+        "day_topic": "Understanding FOSS Communities (Discussion)",
+        "readings": [
+          {
+            "title": "Eghbal, N. (2020). Working in Public: The Making and Maintenance of Open Source Software (Introduction and Chapter 1)",
+            "url": ""
+          },
+          {
+            "title": "How to Contribute to Open Source",
+            "url": "https://opensource.guide/how-to-contribute/"
+          },
+          {
+            "title": "Open Source Guides - Browse",
+            "url": "https://opensource.guide/"
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 3 (due Sun, Feb 8, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "2/12",
+        "day_topic": "Case Studies in Failed/Problematic Interventions (Workshop)",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Assignment 2: Project Exploration & Community Analysis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "topic": "Postcolonial Computing & Power Dynamics",
+    "days": [
+      {
+        "date": "2/17",
+        "day_topic": "Technology & (Neo)Colonialism (Discussion)",
+        "readings": [
+          {
+            "title": "Irani, L., et al. (2010). Postcolonial Computing: A Lens on Design and Development",
+            "url": "https://doi.org/10.1145/1753326.1753522"
+          },
+          {
+            "title": "Winner, L. (1980). Do Artifacts Have Politics?",
+            "url": "https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf"
+          },
+          {
+            "title": "Toyama, K. (2011). Technology as Amplifier in International Development",
+            "url": "https://dl.acm.org/doi/abs/10.1145/1940761.1940772"
+          },
+          {
+            "title": "OLPC (One Laptop Per Child) critiques - selected readings",
+            "url": ""
+          },
+          {
+            "title": "Ames, M. G. (2015). Charismatic Technology",
+            "url": ""
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 4 (due Sun, Feb 15, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "2/19",
+        "day_topic": "Localization & Cultural Adaptation (Workshop)",
+        "readings": [],
+        "assignments_due": []
+      }
+    ]
+  },
+  {
+    "week": 6,
+    "topic": "Human-Centered Design in Development",
+    "days": [
+      {
+        "date": "2/24",
+        "day_topic": "HCD Methods & Critiques (Discussion)",
+        "readings": [
+          {
+            "title": "IDEO.org (2015). The Field Guide to Human-Centered Design (selections)",
+            "url": "https://www.designkit.org/resources/1"
+          },
+          {
+            "title": "Dearden, A., & Rizvi, H. (2008). Participatory IT Design and Participatory Development: A comparative review",
+            "url": ""
+          },
+          {
+            "title": "Winschiers-Theophilus, H., et al. (2010). Being Participated: A Community Approach",
+            "url": ""
+          },
+          {
+            "title": "Localization guides from Mozilla, WordPress, or other major FOSS projects - Browse",
+            "url": ""
+          },
+          {
+            "title": "Singh, N., et al. (2005). Culturally Customizing Websites for Global Markets (selections)",
+            "url": ""
+          },
+          {
+            "title": "OpenMRS localization efforts - Case study",
+            "url": "https://openmrs.org/"
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 5 (due Sun, Feb 22, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "2/26",
+        "day_topic": "Community Engagement Best Practices (Workshop)",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Assignment 3: Community Engagement Documentation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "topic": "Sustainability & Governance in FOSS",
+    "days": [
+      {
+        "date": "3/3",
+        "day_topic": "Open Source Sustainability Models (Discussion)",
+        "readings": [
+          {
+            "title": "Eghbal, N. (2020). Working in Public (Chapter on sustainability models)",
+            "url": ""
+          },
+          {
+            "title": "Schweik, C., & English, R. (2012). Internet Success: A Study of Open-Source Software Commons (Chapter 3)",
+            "url": ""
+          },
+          {
+            "title": "Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure (Ford Foundation report)",
+            "url": "https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/"
+          },
+          {
+            "title": "Shaikh, M., & Henfridsson, O. (2017). Governing open source software through coordination processes",
+            "url": ""
+          },
+          {
+            "title": "Apache Software Foundation governance docs - Browse",
+            "url": "https://www.apache.org/foundation/governance/"
+          },
+          {
+            "title": "Humanitarian OpenStreetMap Team governance - Browse",
+            "url": "https://www.hotosm.org/"
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 6 (due Sun, Mar 1, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "3/5",
+        "day_topic": "Contribution Workshop & Technical Skills",
+        "readings": [],
+        "assignments_due": []
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "topic": "Project Evaluation & Contribution Pathways",
+    "days": [
+      {
+        "date": "3/10",
+        "day_topic": "Finding & Evaluating HFOSS Projects (Discussion)",
+        "readings": [
+          {
+            "title": "How to Contribute to Open Source guide - Review",
+            "url": "https://opensource.guide/how-to-contribute/"
+          },
+          {
+            "title": "Finding Ways to Contribute to Open Source on GitHub",
+            "url": "https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github"
+          },
+          {
+            "title": "Blog posts from HFOSS contributors - selected readings",
+            "url": ""
+          },
+          {
+            "title": "How to Ask Questions the Smart Way",
+            "url": "http://www.catb.org/~esr/faqs/smart-questions.html"
+          },
+          {
+            "title": "Review contribution guidelines from 2-3 projects",
+            "url": ""
+          },
+          {
+            "title": "Review all course materials from Weeks 1-7",
+            "url": ""
+          },
+          {
+            "title": "Review project proposal guidelines (posted on course site)",
+            "url": ""
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 7 (due Sun, Mar 8, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "3/12",
+        "day_topic": "Group Formation & Proposal Workshop",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Assignment 4: Contribution Attempt & Reflection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "topic": "MIDTERM WEEK - Community Engagement & Emerging Trends",
+    "days": [
+      {
+        "date": "3/17",
+        "day_topic": "Project Proposals & Peer Feedback",
+        "readings": [
+          {
+            "title": "Read one recent paper from ICTD 2024 conference (student's choice)",
+            "url": "https://ictd.cs.washington.edu/"
+          },
+          {
+            "title": "ICTworks - Browse latest posts",
+            "url": "https://www.ictworks.org/"
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Group Project Proposal"
+          },
+          {
+            "title": "Weekly Reflection 8 (due Sun, Mar 15, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "3/19",
+        "day_topic": "Community Engagement Best Practices",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Midterm Critical Analysis Essay (Graduate Students Only)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "topic": "Education & Digital Literacy",
+    "days": [
+      {
+        "date": "3/24",
+        "day_topic": "Educational Technology in Development (Discussion)",
+        "readings": [
+          {
+            "title": "Ames, M. G. (2019). The Charisma Machine: The Life, Death, and Legacy of One Laptop per Child (selections)",
+            "url": ""
+          },
+          {
+            "title": "Warschauer, M., & Ames, M. (2010). Can One Laptop per Child Save the World's Poor?",
+            "url": ""
+          },
+          {
+            "title": "Educational HFOSS projects - Browse (e.g., Moodle, Kolibri)",
+            "url": ""
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 9 (due Sun, Mar 22, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "3/26",
+        "day_topic": "Project Work Session + Check-ins",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Progress Log 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "topic": "Health & Crisis Informatics",
+    "days": [
+      {
+        "date": "3/31",
+        "day_topic": "Digital Health in Resource-Constrained Settings (Discussion)",
+        "readings": [
+          {
+            "title": "Fraser, H., et al. (2005). Implementing medical information systems in developing countries, what works and what doesn't",
+            "url": ""
+          },
+          {
+            "title": "OpenMRS case studies - Browse",
+            "url": "https://openmrs.org/"
+          },
+          {
+            "title": "Selected readings on mHealth in development",
+            "url": ""
+          },
+          {
+            "title": "Ushahidi origins story and case studies",
+            "url": "https://www.ushahidi.com/"
+          },
+          {
+            "title": "Starbird, K., & Palen, L. (2011). Voluntweets: Self-Organizing by Digital Volunteers in Times of Crisis",
+            "url": ""
+          },
+          {
+            "title": "Humanitarian OpenStreetMap Team case studies",
+            "url": "https://www.hotosm.org/"
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 10 (due Sun, Mar 29, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "4/2",
+        "day_topic": "Crisis Response & Humanitarian Technology (Discussion)",
+        "readings": [],
+        "assignments_due": []
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "topic": "Environmental Sustainability",
+    "days": [
+      {
+        "date": "4/7",
+        "day_topic": "ICT4D and Climate/Environment (Discussion)",
+        "readings": [
+          {
+            "title": "Hilty, L. M., & Aebischer, B. (2015). ICT for Sustainability: An Emerging Research Field",
+            "url": ""
+          },
+          {
+            "title": "Environmental monitoring FOSS projects - Browse",
+            "url": ""
+          },
+          {
+            "title": "Readings on e-waste and environmental cost of ICT",
+            "url": ""
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 11 (due Sun, Apr 5, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "4/9",
+        "day_topic": "Project Work Session",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Progress Log 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "week": 13,
+    "topic": "Data, Privacy & Sovereignty",
+    "days": [
+      {
+        "date": "4/14",
+        "day_topic": "Data Colonialism & Digital Rights (Discussion)",
+        "readings": [
+          {
+            "title": "Couldry, N., & Mejias, U. (2019). Data Colonialism: Rethinking Big Data's Relation to the Contemporary Subject",
+            "url": ""
+          },
+          {
+            "title": "Ahmed, S. I., et al. (2014). Privacy in the Developing World (selections)",
+            "url": ""
+          },
+          {
+            "title": "CARE Principles for Indigenous Data Governance",
+            "url": "https://www.gida-global.org/care"
+          },
+          {
+            "title": "ACM Code of Ethics",
+            "url": "https://www.acm.org/code-of-ethics"
+          },
+          {
+            "title": "Ethics guidelines from HFOSS projects",
+            "url": ""
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 12 (due Sun, Apr 12, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "4/16",
+        "day_topic": "Ethics in ICTD/HFOSS (Discussion)",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Progress Log 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "week": 14,
+    "topic": "Advanced Topics & Guest Perspectives",
+    "days": [
+      {
+        "date": "4/21",
+        "day_topic": "Advanced Topic or Guest Speaker",
+        "readings": [
+          {
+            "title": "TBD based on class interests and current events",
+            "url": ""
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 13 (due Sun, Apr 19, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "4/23",
+        "day_topic": "Project Work Intensive + Presentation Prep",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Progress Log 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "week": 15,
+    "topic": "Buffer Week / Emerging Issues",
+    "days": [
+      {
+        "date": "4/28",
+        "day_topic": "Current Events in ICTD (Discussion)",
+        "readings": [
+          {
+            "title": "Recent developments in ICTD field - selected readings",
+            "url": ""
+          },
+          {
+            "title": "Review course learning objectives",
+            "url": ""
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 14 (due Sun, Apr 26, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "4/30",
+        "day_topic": "Project Work & Final Preparations",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Progress Log 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "week": 16,
+    "topic": "Final Presentations",
+    "days": [
+      {
+        "date": "5/5",
+        "day_topic": "Group Presentations (Part 1)",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 15 (due Sun, May 3, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "5/7",
+        "day_topic": "Group Presentations (Part 2) & Course Wrap-Up",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Peer Feedback (due within 48 hours)"
+          },
+          {
+            "title": "Progress Log 6 (due Sun, May 11, 11:59pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "week": "Finals",
+    "topic": "Finals Week - No Class Meeting",
+    "days": [
+      {
+        "date": "Finals Week",
+        "day_topic": "No class meeting - office hours available",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Final Group Project Papers (date TBD based on university finals schedule)"
+          }
+        ]
+      }
+    ]
+  }
+]
