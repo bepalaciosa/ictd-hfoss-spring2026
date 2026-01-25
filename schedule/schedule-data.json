@@ -27,7 +27,7 @@
     "days": [
       {
         "date": "1/27",
-        "day_topic": "Development Theory Meets Technology (Discussion)",
+        "day_topic": "Discussion: Development Theory Meets Technology",
         "readings": [
           {
             "title": "Sen, A. (1999). Development as Freedom (skim pages 525-536. Focus on 'Poverty as Capability Deprivation', pages 537-541)",
@@ -50,7 +50,7 @@
       },
       {
         "date": "1/29",
-        "day_topic": "Git/GitHub Hands-On Workshop",
+        "day_topic": "Workshop: Community Field Trip and Git/GitHub Basics",
         "readings": [],
         "assignments_due": [
           {
@@ -66,7 +66,7 @@
     "days": [
       {
         "date": "2/3",
-        "day_topic": "FOSS Philosophy & Licensing (Discussion)",
+        "day_topic": "Discussion: FOSS Philosophy & Movement",
         "readings": [
           {
             "title": "Raymond, E. (1999). The Cathedral and the Bazaar (Required until lesson 9, page 7 in the PDF)",
@@ -77,12 +77,12 @@
             "url": "https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1169937"
           },
           {
-            "title": "The Free Software Definition (skim)",
-            "url": "https://www.gnu.org/philosophy/free-sw.html"
+            "title": "Stallman, R. Why Open Source Misses the Point of Free Software",
+            "url": "https://www.gnu.org/philosophy/open-source-misses-the-point.html"
           },
           {
-            "title": "Stallman, R. Why Open Source Misses the Point of Free Software (skim)",
-            "url": "https://www.gnu.org/philosophy/open-source-misses-the-point.html"
+            "title": "The Free Software Definition (skim)",
+            "url": "https://www.gnu.org/philosophy/free-sw.html"
           },
           {
             "title": "Choose a License (skim website)",
@@ -97,7 +97,7 @@
       },
       {
         "date": "2/5",
-        "day_topic": "Understanding FOSS Projects & Communities (Workshop)",
+        "day_topic": "Workshop: Understanding FOSS Licenses",
         "readings": [],
         "assignments_due": []
       }
@@ -105,23 +105,23 @@
   },
   {
     "week": 4,
-    "topic": "FOSS Communities & Project Evaluation",
+    "topic": "Critical Theories: Postcolonial Computing, Feminism, and Social Justice",
     "days": [
       {
         "date": "2/10",
-        "day_topic": "Understanding FOSS Communities (Discussion)",
+        "day_topic": "Discussion: Critical Lenses in HCI and Design",
         "readings": [
           {
-            "title": "Eghbal, N. (2020). Working in Public: The Making and Maintenance of Open Source Software (Introduction and Chapter 1)",
-            "url": ""
+            "title": "Irani, L., et al. (2010). Postcolonial Computing: A Lens on Design and Development",
+            "url": "https://doi.org/10.1145/1753326.1753522"
           },
           {
-            "title": "How to Contribute to Open Source",
-            "url": "https://opensource.guide/how-to-contribute/"
+            "title": "Bardzell, S. (2010). Feminist HCI: Taking Stock and Outlining an Agenda for Design",
+            "url": "https://dl.acm.org/doi/abs/10.1145/1753326.1753521"
           },
           {
-            "title": "Open Source Guides - Browse",
-            "url": "https://opensource.guide/"
+            "title": "Dombrowski, L., Harmon, E., & Fox, S. (2016). Social Justice-Oriented Interaction Design: Outlining Key Design Strategies and Commitments",
+            "url": "https://dl.acm.org/doi/abs/10.1145/2901790.2901861"
           }
         ],
         "assignments_due": [
@@ -132,7 +132,7 @@
       },
       {
         "date": "2/12",
-        "day_topic": "Case Studies in Failed/Problematic Interventions (Workshop)",
+        "day_topic": "Workshop: Case Studies in Failed/Problematic Interventions",
         "readings": [],
         "assignments_due": [
           {
@@ -144,31 +144,27 @@
   },
   {
     "week": 5,
-    "topic": "Postcolonial Computing & Power Dynamics",
+    "topic": "Activism and Global South Perspectives",
     "days": [
       {
         "date": "2/17",
-        "day_topic": "Technology & (Neo)Colonialism (Discussion)",
+        "day_topic": "Discussion: Grassroots Organizing & Action Research",
         "readings": [
           {
-            "title": "Irani, L., et al. (2010). Postcolonial Computing: A Lens on Design and Development",
-            "url": "https://doi.org/10.1145/1753326.1753522"
+            "title": "Hayes, G. R. (2011). Knowing by Doing: Action Research as an Approach to HCI",
+            "url": "https://link.springer.com/chapter/10.1007/978-1-4939-0378-8_3"
           },
           {
-            "title": "Winner, L. (1980). Do Artifacts Have Politics?",
-            "url": "https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf"
+            "title": "Asad, M., & Le Dantec, C. A. (2015). Illegitimate Civic Participation: Supporting Community Activists on the Ground",
+            "url": "https://dl.acm.org/doi/10.1145/2675133.2675156"
           },
           {
-            "title": "Toyama, K. (2011). Technology as Amplifier in International Development",
-            "url": "https://dl.acm.org/doi/abs/10.1145/1940761.1940772"
+            "title": "Milan, S., & Treré, E. (2019). Big Data from the South: The Coloniality of Knowledge, Development, and Information Societies",
+            "url": "https://journals.sagepub.com/doi/10.1177/0163443718796632"
           },
           {
-            "title": "OLPC (One Laptop Per Child) critiques - selected readings",
-            "url": ""
-          },
-          {
-            "title": "Ames, M. G. (2015). Charismatic Technology",
-            "url": ""
+            "title": "And Other Stuff (AOS) - browse structure and projects",
+            "url": "https://andotherstuff.org/"
           }
         ],
         "assignments_due": [
@@ -179,7 +175,7 @@
       },
       {
         "date": "2/19",
-        "day_topic": "Localization & Cultural Adaptation (Workshop)",
+        "day_topic": "Guest Speaker: Liz Sweigart - Community Engagement Best Practices Workshop",
         "readings": [],
         "assignments_due": []
       }
@@ -187,31 +183,23 @@
   },
   {
     "week": 6,
-    "topic": "Human-Centered Design in Development",
+    "topic": "Human-Centered Design (HCD) and Participatory Approaches",
     "days": [
       {
         "date": "2/24",
-        "day_topic": "HCD Methods & Critiques (Discussion)",
+        "day_topic": "Discussion: Research Through Design (RtD) & Participatory Design (PD)",
         "readings": [
           {
-            "title": "IDEO Shopping Cart",
-            "url": "https://www.youtube.com/watch?v=M66ZU2PCIcM"
+            "title": "Zimmerman, J., Forlizzi, J., & Evenson, S. (2007). Research Through Design as a Method for Interaction Design Research in HCI",
+            "url": "https://link.springer.com/chapter/10.1007/978-1-4939-0378-8_8"
           },
           {
             "title": "Dearden, A., & Rizvi, H. (2008). Participatory IT Design and Participatory Development: A comparative review",
-            "url": ""
+            "url": "https://shura.shu.ac.uk/29/"
           },
           {
             "title": "Winschiers-Theophilus, H., et al. (2010). Being Participated: A Community Approach",
-            "url": ""
-          },
-          {
-            "title": "Localization guides from Mozilla, WordPress, or other major FOSS projects - Browse",
-            "url": ""
-          },
-          {
-            "title": "OpenMRS localization efforts - Case study",
-            "url": "https://openmrs.org/"
+            "url": "https://dl.acm.org/doi/abs/10.1145/1900441.1900443"
           }
         ],
         "assignments_due": [
@@ -222,7 +210,7 @@
       },
       {
         "date": "2/26",
-        "day_topic": "Community Engagement Best Practices (Workshop)",
+        "day_topic": "Workshop: TBD",
         "readings": [],
         "assignments_due": [
           {
@@ -234,35 +222,23 @@
   },
   {
     "week": 7,
-    "topic": "Sustainability & Governance in FOSS",
+    "topic": "Asset-Based Community Development (ABCD)",
     "days": [
       {
         "date": "3/3",
-        "day_topic": "Open Source Sustainability Models (Discussion)",
+        "day_topic": "Guest Speaker: Eric Greenlee - Asset-Based Design in Practice",
         "readings": [
           {
-            "title": "Eghbal, N. (2020). Working in Public (Chapter on sustainability models)",
+            "title": "Toyama, K. (2011). Technology as Amplifier in International Development",
+            "url": "https://dl.acm.org/doi/abs/10.1145/1940761.1940772"
+          },
+          {
+            "title": "Kretzmann, J. P., & McKnight, J. L. (1993). Building Communities from the Inside Out (PDF will be on Canvas)",
             "url": ""
           },
           {
-            "title": "Schweik, C., & English, R. (2012). Internet Success: A Study of Open-Source Software Commons (Chapter 3)",
-            "url": ""
-          },
-          {
-            "title": "Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure (Ford Foundation report)",
-            "url": "https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/"
-          },
-          {
-            "title": "Shaikh, M., & Henfridsson, O. (2017). Governing open source software through coordination processes",
-            "url": ""
-          },
-          {
-            "title": "Apache Software Foundation governance docs - Browse",
-            "url": "https://www.apache.org/foundation/governance/"
-          },
-          {
-            "title": "Humanitarian OpenStreetMap Team governance - Browse",
-            "url": "https://www.hotosm.org/"
+            "title": "Greenlee, E., et al. (2024). Emerging Experts: Asset-Based Design with Community Health Workers",
+            "url": "https://dl.acm.org/doi/abs/10.1145/3757664"
           }
         ],
         "assignments_due": [
@@ -273,7 +249,7 @@
       },
       {
         "date": "3/5",
-        "day_topic": "Contribution Workshop & Technical Skills",
+        "day_topic": "Workshop: Topic TBD",
         "readings": [],
         "assignments_due": []
       }
@@ -281,11 +257,11 @@
   },
   {
     "week": 8,
-    "topic": "Project Evaluation & Contribution Pathways",
+    "topic": "Open Source Governance",
     "days": [
       {
         "date": "3/10",
-        "day_topic": "Finding & Evaluating HFOSS Projects (Discussion)",
+        "day_topic": "Discussion: Open Source Sustainability",
         "readings": [
           {
             "title": "How to Contribute to Open Source guide - Review",
@@ -294,26 +270,6 @@
           {
             "title": "Finding Ways to Contribute to Open Source on GitHub",
             "url": "https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github"
-          },
-          {
-            "title": "Blog posts from HFOSS contributors - selected readings",
-            "url": ""
-          },
-          {
-            "title": "How to Ask Questions the Smart Way",
-            "url": "http://www.catb.org/~esr/faqs/smart-questions.html"
-          },
-          {
-            "title": "Review contribution guidelines from 2-3 projects",
-            "url": ""
-          },
-          {
-            "title": "Review all course materials from Weeks 1-7",
-            "url": ""
-          },
-          {
-            "title": "Review project proposal guidelines (posted on course site)",
-            "url": ""
           }
         ],
         "assignments_due": [
@@ -324,11 +280,14 @@
       },
       {
         "date": "3/12",
-        "day_topic": "Group Formation & Proposal Workshop",
+        "day_topic": "Workshop: Group Formation & Project Proposals",
         "readings": [],
         "assignments_due": [
           {
-            "title": "Assignment 4: Contribution Attempt & Reflection"
+            "title": "Assignment 4: Reflection"
+          },
+          {
+            "title": "Midterm Critical Analysis Essay (graduate students only)"
           }
         ]
       }
@@ -336,39 +295,19 @@
   },
   {
     "week": 9,
-    "topic": "MIDTERM WEEK - Community Engagement & Emerging Trends",
+    "topic": "SPRING BREAK",
     "days": [
       {
         "date": "3/17",
-        "day_topic": "Project Proposals & Peer Feedback",
-        "readings": [
-          {
-            "title": "Read one recent paper from ICTD 2024 conference proceedings (student's choice)",
-            "url": "https://dl.acm.org/doi/proceedings/10.1145/3700794"
-          },
-          {
-            "title": "ICTworks - Browse latest posts",
-            "url": "https://www.ictworks.org/"
-          }
-        ],
-        "assignments_due": [
-          {
-            "title": "Group Project Proposal"
-          },
-          {
-            "title": "Weekly Reflection 8 (due Sun, Mar 15, 11:59pm)"
-          }
-        ]
+        "day_topic": "No class",
+        "readings": [],
+        "assignments_due": []
       },
       {
         "date": "3/19",
-        "day_topic": "Community Engagement Best Practices",
+        "day_topic": "No class",
         "readings": [],
-        "assignments_due": [
-          {
-            "title": "Midterm Critical Analysis Essay (Graduate Students Only)"
-          }
-        ]
+        "assignments_due": []
       }
     ]
   },
