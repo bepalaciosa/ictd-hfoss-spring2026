@@ -105,19 +105,19 @@
   },
   {
     "week": 4,
-    "topic": "Critical Theories: Postcolonial Computing, Feminism, and Social Justice",
+    "topic": "Critical Theories: Power, Politics, and Social Justice",
     "days": [
       {
         "date": "2/10",
-        "day_topic": "Discussion: Critical Lenses in HCI and Design",
+        "day_topic": "Discussion: Politics of Artifacts and Critical Frameworks",
         "readings": [
+          {
+            "title": "Winner, L. (1980). Do Artifacts Have Politics?",
+            "url": "https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf"
+          },
           {
             "title": "Irani, L., et al. (2010). Postcolonial Computing: A Lens on Design and Development",
             "url": "https://doi.org/10.1145/1753326.1753522"
-          },
-          {
-            "title": "Bardzell, S. (2010). Feminist HCI: Taking Stock and Outlining an Agenda for Design",
-            "url": "https://dl.acm.org/doi/abs/10.1145/1753326.1753521"
           },
           {
             "title": "Dombrowski, L., Harmon, E., & Fox, S. (2016). Social Justice-Oriented Interaction Design: Outlining Key Design Strategies and Commitments",
@@ -187,7 +187,7 @@
     "days": [
       {
         "date": "2/24",
-        "day_topic": "Discussion: Research Through Design (RtD) & Participatory Design (PD)",
+        "day_topic": "Discussion: Research Through Design (RtD), Participatory Design (PD), and Feminist HCI",
         "readings": [
           {
             "title": "Zimmerman, J., Forlizzi, J., & Evenson, S. (2007). Research Through Design as a Method for Interaction Design Research in HCI",
@@ -198,8 +198,8 @@
             "url": "https://shura.shu.ac.uk/29/"
           },
           {
-            "title": "Winschiers-Theophilus, H., et al. (2010). Being Participated: A Community Approach",
-            "url": "https://dl.acm.org/doi/abs/10.1145/1900441.1900443"
+            "title": "Bardzell, S. (2010). Feminist HCI: Taking Stock and Outlining an Agenda for Design",
+            "url": "https://dl.acm.org/doi/abs/10.1145/1753326.1753521"
           }
         ],
         "assignments_due": [
