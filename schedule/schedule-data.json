@@ -210,13 +210,13 @@
       },
       {
         "date": "2/26",
-        "day_topic": "Workshop: TBD",
-        "readings": [],
-        "assignments_due": [
+        "day_topic": "Workshop: Review Exercise 1",
+        "readings": [
           {
-            "title": "Assignment 3: Community Engagement Documentation"
+            "title": "Assignment 3: Paired Code Review (released)"
           }
-        ]
+        ],
+        "assignments_due": []
       }
     ]
   },
@@ -251,25 +251,29 @@
         "date": "3/5",
         "day_topic": "Workshop: Topic TBD",
         "readings": [],
-        "assignments_due": []
+        "assignments_due": [
+          {
+            "title": "Assignment 3"
+          }
+        ]
       }
     ]
   },
   {
     "week": 8,
-    "topic": "Open Source Governance",
+    "topic": "ICTD in Practice and Critical Reflections",
     "days": [
       {
         "date": "3/10",
-        "day_topic": "Discussion: Open Source Sustainability",
+        "day_topic": "Discussion: Revisiting ICTD Success Stories",
         "readings": [
           {
-            "title": "How to Contribute to Open Source guide - Review",
-            "url": "https://opensource.guide/how-to-contribute/"
+            "title": "Srinivasan, J., & Burrell, J. (2013). Revisiting the Fishers of Kerala, India",
+            "url": "https://dl.acm.org/doi/10.1145/2516604.2516618"
           },
           {
-            "title": "Finding Ways to Contribute to Open Source on GitHub",
-            "url": "https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github"
+            "title": "Avle, S., & Lindtner, S. (2016). Design(ing) 'Here' and 'There': Tech Entrepreneurs, Local Markets, and Reflexivity in Design Processes",
+            "url": "https://dl.acm.org/doi/abs/10.1145/2858036.2858509"
           }
         ],
         "assignments_due": [
@@ -280,12 +284,13 @@
       },
       {
         "date": "3/12",
-        "day_topic": "Workshop: Group Formation & Project Proposals",
-        "readings": [],
-        "assignments_due": [
+        "day_topic": "Workshop: OLPC Critique and Final Project Discussions",
+        "readings": [
           {
-            "title": "Assignment 4: Reflection"
-          },
+            "title": "Assignment 4: Stakeholder Analysis (released)"
+          }
+        ],
+        "assignments_due": [
           {
             "title": "Midterm Critical Analysis Essay (graduate students only)"
           }
@@ -313,34 +318,99 @@
   },
   {
     "week": 10,
-    "topic": "Education & Digital Literacy",
+    "topic": "Technology Mediation",
     "days": [
       {
         "date": "3/24",
-        "day_topic": "Educational Technology in Development (Discussion)",
+        "day_topic": "Discussion: Case Studies in Latin America",
         "readings": [
           {
-            "title": "Ames, M. G. (2019). The Charisma Machine: The Life, Death, and Legacy of One Laptop per Child (selections)",
-            "url": ""
+            "title": "Cho, A., et al. (2019). The Comadre Project",
+            "url": "https://dl.acm.org/doi/10.1145/3290605.3300837"
           },
           {
-            "title": "Warschauer, M., & Ames, M. (2010). Can One Laptop per Child Save the World's Poor?",
-            "url": ""
-          },
-          {
-            "title": "Educational HFOSS projects - Browse (e.g., Moodle, Kolibri)",
-            "url": ""
+            "title": "Sambasivan, N., et al. (2010). Intermediated technology use in developing communities",
+            "url": "https://dl.acm.org/doi/abs/10.1145/1753326.1753718"
           }
         ],
         "assignments_due": [
           {
-            "title": "Weekly Reflection 9 (due Sun, Mar 22, 11:59pm)"
+            "title": "Weekly Reflection 8 (due Sun, Mar 22, 11:59pm)"
           }
         ]
       },
       {
         "date": "3/26",
-        "day_topic": "Project Work Session + Check-ins",
+        "day_topic": "Workshop: Project Proposal",
+        "readings": [],
+        "assignments_due": [
+          {
+            "title": "Assignment 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "topic": "Data Governance",
+    "days": [
+      {
+        "date": "3/31",
+        "day_topic": "Discussion: Indigenous Data Sovereignty",
+        "readings": [
+          {
+            "title": "Rainie, S. C., et al. (2019). Indigenous Data Sovereignty (PDF available via UNM Library and uploaded to Canvas)",
+            "url": ""
+          },
+          {
+            "title": "CARE Principles for Indigenous Data Governance (optional)",
+            "url": "https://www.gida-global.org/care"
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Project Proposal"
+          },
+          {
+            "title": "Weekly Reflection 9 (due Sun, Mar 29, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "4/2",
+        "day_topic": "Workshop: Proposal Presentations & Feedback",
+        "readings": [],
+        "assignments_due": []
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "topic": "Crisis Informatics",
+    "days": [
+      {
+        "date": "4/7",
+        "day_topic": "Guest Speaker: Jen Liu - Mutual Aid Projects",
+        "readings": [
+          {
+            "title": "Liu, J., et al. (2024). Signals Through the Storm: Designing Networks for Mutual Aid Communities in Southeast Louisiana",
+            "url": "https://dl.acm.org/doi/abs/10.1145/3758320"
+          },
+          {
+            "title": "Starbird, K., & Palen, L. (2011). Voluntweets: Self-Organizing by Digital Volunteers in Times of Crisis",
+            "url": "https://dl.acm.org/doi/abs/10.1145/1978942.1979102"
+          }
+        ],
+        "assignments_due": [
+          {
+            "title": "Weekly Reflection 10 (due Sun, Apr 5, 11:59pm)"
+          }
+        ]
+      },
+      {
+        "date": "4/9",
+        "day_topic": "Workshop: TBD",
         "readings": [],
         "assignments_due": [
           {
@@ -351,78 +421,26 @@
     ]
   },
   {
-    "week": 11,
-    "topic": "Health & Crisis Informatics",
+    "week": 13,
+    "topic": "Repair, Maintenance, and Infrastructure",
     "days": [
       {
-        "date": "3/31",
-        "day_topic": "Digital Health in Resource-Constrained Settings (Discussion)",
+        "date": "4/14",
+        "day_topic": "Discussion: Broadband Data Action",
         "readings": [
           {
-            "title": "Fraser, H., et al. (2005). Implementing medical information systems in developing countries, what works and what doesn't",
-            "url": ""
-          },
-          {
-            "title": "OpenMRS case studies - Browse",
-            "url": "https://openmrs.org/"
-          },
-          {
-            "title": "Ushahidi origins story and case studies",
-            "url": "https://www.ushahidi.com/"
-          },
-          {
-            "title": "Starbird, K., & Palen, L. (2011). Voluntweets: Self-Organizing by Digital Volunteers in Times of Crisis",
-            "url": "https://dl.acm.org/doi/abs/10.1145/1978942.1979102"
-          },
-          {
-            "title": "Humanitarian OpenStreetMap Team case studies",
-            "url": "https://www.hotosm.org/"
+            "title": "Palacios Abad, B., et al. (2024). Mending the Fabric: the Contentious, Collaborative Work of Repairing Broadband Maps (PDF uploaded to Canvas)"
           }
         ],
         "assignments_due": [
           {
-            "title": "Weekly Reflection 10 (due Sun, Mar 29, 11:59pm)"
+            "title": "Weekly Reflection 11 (due Sun, Apr 12, 11:59pm)"
           }
         ]
       },
       {
-        "date": "4/2",
-        "day_topic": "Crisis Response & Humanitarian Technology (Discussion)",
-        "readings": [],
-        "assignments_due": []
-      }
-    ]
-  },
-  {
-    "week": 12,
-    "topic": "Environmental Sustainability",
-    "days": [
-      {
-        "date": "4/7",
-        "day_topic": "ICT4D and Climate/Environment (Discussion)",
-        "readings": [
-          {
-            "title": "Hilty, L. M., & Aebischer, B. (2015). ICT for Sustainability: An Emerging Research Field",
-            "url": ""
-          },
-          {
-            "title": "Environmental monitoring FOSS projects - Browse",
-            "url": ""
-          },
-          {
-            "title": "Readings on e-waste and environmental cost of ICT",
-            "url": ""
-          }
-        ],
-        "assignments_due": [
-          {
-            "title": "Weekly Reflection 11 (due Sun, Apr 5, 11:59pm)"
-          }
-        ]
-      },
-      {
-        "date": "4/9",
-        "day_topic": "Project Work Session",
+        "date": "4/16",
+        "day_topic": "Workshop: TBD",
         "readings": [],
         "assignments_due": [
           {
@@ -433,43 +451,27 @@
     ]
   },
   {
-    "week": 13,
-    "topic": "Data, Privacy & Sovereignty",
+    "week": 14,
+    "topic": "Accessibility and Inclusive Design",
     "days": [
       {
-        "date": "4/14",
-        "day_topic": "Data Colonialism & Digital Rights (Discussion)",
+        "date": "4/21",
+        "day_topic": "Discussion: Accessibility in ICTD",
         "readings": [
           {
-            "title": "Couldry, N., & Mejias, U. (2019). Data Colonialism: Rethinking Big Data's Relation to the Contemporary Subject",
-            "url": ""
-          },
-          {
-            "title": "Ahmed, S. I., et al. (2014). Privacy in the Developing World (selections)",
-            "url": ""
-          },
-          {
-            "title": "CARE Principles for Indigenous Data Governance",
-            "url": "https://www.gida-global.org/care"
-          },
-          {
-            "title": "ACM Code of Ethics",
-            "url": "https://www.acm.org/code-of-ethics"
-          },
-          {
-            "title": "Ethics guidelines from HFOSS projects",
-            "url": ""
+            "title": "Morgado-Ramirez, D. Z., et al. (2020). Disability design and innovation in computing research in low resource settings",
+            "url": "https://dl.acm.org/doi/pdf/10.1145/3373625.3417301"
           }
         ],
         "assignments_due": [
           {
-            "title": "Weekly Reflection 12 (due Sun, Apr 12, 11:59pm)"
+            "title": "Weekly Reflection 12 (due Sun, Apr 19, 11:59pm)"
           }
         ]
       },
       {
-        "date": "4/16",
-        "day_topic": "Ethics in ICTD/HFOSS (Discussion)",
+        "date": "4/23",
+        "day_topic": "Workshop: Final Presentation Preparation",
         "readings": [],
         "assignments_due": [
           {
@@ -480,66 +482,35 @@
     ]
   },
   {
-    "week": 14,
-    "topic": "Advanced Topics & Guest Perspectives",
-    "days": [
-      {
-        "date": "4/21",
-        "day_topic": "Advanced Topic or Guest Speaker",
-        "readings": [
-          {
-            "title": "TBD based on class interests and current events",
-            "url": ""
-          }
-        ],
-        "assignments_due": [
-          {
-            "title": "Weekly Reflection 13 (due Sun, Apr 19, 11:59pm)"
-          }
-        ]
-      },
-      {
-        "date": "4/23",
-        "day_topic": "Project Work Intensive + Presentation Prep",
-        "readings": [],
-        "assignments_due": [
-          {
-            "title": "Progress Log 4"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "week": 15,
-    "topic": "Buffer Week / Emerging Issues",
+    "topic": "Post-Growth and Tech Futures",
     "days": [
       {
         "date": "4/28",
-        "day_topic": "Current Events in ICTD (Discussion)",
+        "day_topic": "Post-Growth Computing",
         "readings": [
           {
-            "title": "Recent developments in ICTD field - selected readings",
-            "url": ""
+            "title": "Sharma, V., et al. (2025). Post-Growth HCI: Some Reflections and a Call to Action",
+            "url": "https://dl.acm.org/doi/10.1145/3722235"
           },
           {
-            "title": "Review course learning objectives",
-            "url": ""
+            "title": "Doctorow, C. (2026). AI companies will fail",
+            "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur"
           }
         ],
         "assignments_due": [
           {
-            "title": "Weekly Reflection 14 (due Sun, Apr 26, 11:59pm)"
+            "title": "Weekly Reflection 13 (due Sun, Apr 26, 11:59pm)"
           }
         ]
       },
       {
         "date": "4/30",
-        "day_topic": "Project Work & Final Preparations",
+        "day_topic": "Workshop: TBD",
         "readings": [],
         "assignments_due": [
           {
-            "title": "Progress Log 5"
+            "title": "Progress Log 4"
           }
         ]
       }
@@ -553,11 +524,7 @@
         "date": "5/5",
         "day_topic": "Group Presentations (Part 1)",
         "readings": [],
-        "assignments_due": [
-          {
-            "title": "Weekly Reflection 15 (due Sun, May 3, 11:59pm)"
-          }
-        ]
+        "assignments_due": []
       },
       {
         "date": "5/7",
@@ -565,10 +532,7 @@
         "readings": [],
         "assignments_due": [
           {
-            "title": "Peer Feedback (due within 48 hours)"
-          },
-          {
-            "title": "Progress Log 6 (due Sun, May 11, 11:59pm)"
+            "title": "Progress Log 5"
           }
         ]
       }
@@ -579,12 +543,15 @@
     "topic": "Finals Week - No Class Meeting",
     "days": [
       {
-        "date": "Finals Week",
+        "date": "5/14",
         "day_topic": "No class meeting - office hours available",
         "readings": [],
         "assignments_due": [
           {
-            "title": "Final Group Project Papers (date TBD based on university finals schedule)"
+            "title": "Final Group Project Paper (due 11:59pm)"
+          },
+          {
+            "title": "Peer Evaluation (due 11:59pm)"
           }
         ]
       }
