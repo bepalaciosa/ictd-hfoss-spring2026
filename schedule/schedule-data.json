@@ -249,7 +249,7 @@
       },
       {
         "date": "3/5",
-        "day_topic": "Workshop: Topic TBD",
+        "day_topic": "Workshop: Project Proposal Preparation",
         "readings": [],
         "assignments_due": [
           {
@@ -284,12 +284,8 @@
       },
       {
         "date": "3/12",
-        "day_topic": "Workshop: OLPC Critique and Final Project Discussions",
-        "readings": [
-          {
-            "title": "Assignment 4: Stakeholder Analysis (released)"
-          }
-        ],
+        "day_topic": "Workshop: OLPC Critique",
+        "readings": [],
         "assignments_due": [
           {
             "title": "Midterm Critical Analysis Essay (graduate students only)"
@@ -341,11 +337,15 @@
       },
       {
         "date": "3/26",
-        "day_topic": "Workshop: Project Proposal",
-        "readings": [],
+        "day_topic": "Workshop: Proposal Presentations & Feedback",
+        "readings": [
+          {
+            "title": "Assignment 4: Stakeholder Analysis (released)"
+          }
+        ],
         "assignments_due": [
           {
-            "title": "Assignment 4"
+            "title": "Project Proposal (due Thu, 3/26, 11:59pm)"
           }
         ]
       }
@@ -370,18 +370,22 @@
         ],
         "assignments_due": [
           {
-            "title": "Project Proposal"
-          },
-          {
             "title": "Weekly Reflection 9 (due Sun, Mar 29, 11:59pm)"
           }
         ]
       },
       {
         "date": "4/2",
-        "day_topic": "Workshop: Proposal Presentations & Feedback",
+        "day_topic": "Workshop: Topic TBD",
         "readings": [],
-        "assignments_due": []
+        "assignments_due": [
+          {
+            "title": "Assignment 4 (due Wed, Apr 1, 11:59pm)"
+          },
+          {
+            "title": "Progress Log 1 (due Thu, Apr 2, 11:59pm)"
+          }
+        ]
       }
     ]
   },
@@ -414,7 +418,7 @@
         "readings": [],
         "assignments_due": [
           {
-            "title": "Progress Log 1"
+            "title": "Progress Log 2 (due Thu, Apr 9, 11:59pm)"
           }
         ]
       }
@@ -444,7 +448,7 @@
         "readings": [],
         "assignments_due": [
           {
-            "title": "Progress Log 2"
+            "title": "Progress Log 3 (due Thu, Apr 16, 11:59pm)"
           }
         ]
       }
@@ -475,7 +479,7 @@
         "readings": [],
         "assignments_due": [
           {
-            "title": "Progress Log 3"
+            "title": "Progress Log 4 (due Thu, Apr 23, 11:59pm)"
           }
         ]
       }
@@ -510,7 +514,7 @@
         "readings": [],
         "assignments_due": [
           {
-            "title": "Progress Log 4"
+            "title": "Progress Log 5 (due Thu, Apr 30, 11:59pm)"
           }
         ]
       }
@@ -530,11 +534,7 @@
         "date": "5/7",
         "day_topic": "Group Presentations (Part 2) & Course Wrap-Up",
         "readings": [],
-        "assignments_due": [
-          {
-            "title": "Progress Log 5"
-          }
-        ]
+        "assignments_due": []
       }
     ]
   },
