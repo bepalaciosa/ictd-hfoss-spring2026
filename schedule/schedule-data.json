@@ -229,16 +229,16 @@
         "day_topic": "Guest Speaker: Eric Greenlee - Asset-Based Design in Practice",
         "readings": [
           {
-            "title": "Toyama, K. (2011). Technology as Amplifier in International Development",
-            "url": "https://dl.acm.org/doi/abs/10.1145/1940761.1940772"
-          },
-          {
-            "title": "Kretzmann, J. P., & McKnight, J. L. (1993). Building Communities from the Inside Out (PDF will be on Canvas)",
+            "title": "Kretzmann, J. P., & McKnight, J. L. (1993). Building Communities from the Inside Out (skim for background, PDF on Canvas)",
             "url": ""
           },
           {
             "title": "Greenlee, E., et al. (2024). Emerging Experts: Asset-Based Design with Community Health Workers",
             "url": "https://dl.acm.org/doi/abs/10.1145/3757664"
+          },
+          {
+            "title": "Toyama, K. (2011). Technology as Amplifier in International Development",
+            "url": "https://dl.acm.org/doi/abs/10.1145/1940761.1940772"
           }
         ],
         "assignments_due": [
