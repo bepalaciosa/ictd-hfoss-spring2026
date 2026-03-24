@@ -251,11 +251,7 @@
         "date": "3/5",
         "day_topic": "Workshop: Project Proposal Preparation",
         "readings": [],
-        "assignments_due": [
-          {
-            "title": "Assignment 3 (due Wed, Mar 4, 11:59pm)"
-          }
-        ]
+        "assignments_due": []
       }
     ]
   },
@@ -338,14 +334,13 @@
       {
         "date": "3/26",
         "day_topic": "Workshop: Proposal Presentations & Feedback",
-        "readings": [
-          {
-            "title": "Assignment 4: Stakeholder Analysis (released)"
-          }
-        ],
+        "readings": [],
         "assignments_due": [
           {
-            "title": "Project Proposal (due Thu, 3/26, 11:59pm)"
+            "title": "Assignment 3 (due Wed, Mar 25, 11:59pm)"
+          },
+          {
+            "title": "Project Proposal (due Thu, Mar 26, 11:59pm)"
           }
         ]
       }
@@ -377,11 +372,12 @@
       {
         "date": "4/2",
         "day_topic": "Workshop: Topic TBD",
-        "readings": [],
-        "assignments_due": [
+        "readings": [
           {
-            "title": "Assignment 4 (due Wed, Apr 1, 11:59pm)"
-          },
+            "title": "Assignment 4: Stakeholder Analysis (released)"
+          }
+        ],
+        "assignments_due": [
           {
             "title": "Progress Log 1 (due Thu, Apr 2, 11:59pm)"
           }
@@ -395,15 +391,10 @@
     "days": [
       {
         "date": "4/7",
-        "day_topic": "Guest Speaker: Jen Liu - Mutual Aid Projects",
+        "day_topic": "Discussion: Broadband Data Action",
         "readings": [
           {
-            "title": "Liu, J., et al. (2024). Signals Through the Storm: Designing Networks for Mutual Aid Communities in Southeast Louisiana",
-            "url": "https://dl.acm.org/doi/abs/10.1145/3758320"
-          },
-          {
-            "title": "Starbird, K., & Palen, L. (2011). Voluntweets: Self-Organizing by Digital Volunteers in Times of Crisis",
-            "url": "https://dl.acm.org/doi/abs/10.1145/1978942.1979102"
+            "title": "Palacios Abad, B., et al. (2024). Mending the Fabric: the Contentious, Collaborative Work of Repairing Broadband Maps (PDF uploaded to Canvas)"
           }
         ],
         "assignments_due": [
@@ -418,6 +409,9 @@
         "readings": [],
         "assignments_due": [
           {
+            "title": "Assignment 4 (due Wed, Apr 8, 11:59pm)"
+          },
+          {
             "title": "Progress Log 2 (due Thu, Apr 9, 11:59pm)"
           }
         ]
@@ -430,10 +424,15 @@
     "days": [
       {
         "date": "4/14",
-        "day_topic": "Discussion: Broadband Data Action",
+        "day_topic": "Guest Speaker: Jen Liu - Mutual Aid Projects",
         "readings": [
           {
-            "title": "Palacios Abad, B., et al. (2024). Mending the Fabric: the Contentious, Collaborative Work of Repairing Broadband Maps (PDF uploaded to Canvas)"
+            "title": "Liu, J., et al. (2024). Signals Through the Storm: Designing Networks for Mutual Aid Communities in Southeast Louisiana",
+            "url": "https://dl.acm.org/doi/abs/10.1145/3758320"
+          },
+          {
+            "title": "Starbird, K., & Palen, L. (2011). Voluntweets: Self-Organizing by Digital Volunteers in Times of Crisis",
+            "url": "https://dl.acm.org/doi/abs/10.1145/1978942.1979102"
           }
         ],
         "assignments_due": [
