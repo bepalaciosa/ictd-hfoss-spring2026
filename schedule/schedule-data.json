@@ -387,7 +387,7 @@
   },
   {
     "week": 12,
-    "topic": "Crisis Informatics",
+    "topic": "Repair, Maintenance, and Infrastructure",
     "days": [
       {
         "date": "4/7",
@@ -395,6 +395,10 @@
         "readings": [
           {
             "title": "Palacios Abad, B., et al. (2024). Mending the Fabric: the Contentious, Collaborative Work of Repairing Broadband Maps (PDF uploaded to Canvas)"
+          },
+          {
+            "title": "Hail the maintainers",
+            "url": "https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more"
           }
         ],
         "assignments_due": [
@@ -420,7 +424,7 @@
   },
   {
     "week": 13,
-    "topic": "Repair, Maintenance, and Infrastructure",
+    "topic": "Crisis Informatics",
     "days": [
       {
         "date": "4/14",
