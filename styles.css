@@ -9,7 +9,7 @@ body {
 
 h1, h2 { 
   color: #005f73; 
-  border-bottom: 2px solid #e0f4ff; 
+  border-bottom: 3px solid #e0f4ff; 
   padding-bottom: 0.5rem; 
 }
 
@@ -20,6 +20,11 @@ h1 {
 
 h2 { 
   font-size: 1.4rem; 
+}
+
+h3 {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.3rem;
 }
 
 .meta { 
@@ -228,4 +233,35 @@ table.course-table {
     font-size: 0.9rem;
     padding: 0.25rem 0.5rem;
   }
+}
+
+/* Option A / Option B boxes for comparisons */
+.box-a {
+  /* border: 1px solid #ccc; */
+  border-left: 4px solid #005f73;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  background: #fafafa;
+  border-radius: 4px;
+}
+.box-b {
+  /* border: 1px solid #ccc; */
+  border-left: 4px solid #94b8c0;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  background: #fafafa;
+  border-radius: 4px;
+}
+.box-a .option-label,
+.box-b .option-label {
+  font-weight: 700;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+  color: #005f73;
+}
+
+details summary.option-label {
+  cursor: pointer;
 }

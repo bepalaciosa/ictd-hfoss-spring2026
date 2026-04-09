@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>ICTD+HFOSS - Spring 2026</title>
+    <title>ICTD+HFOSS - Final Paper</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="../styles.css">
   </head>
@@ -21,52 +21,72 @@
 
     <p>This is your team's comprehensive analysis of and reflection on your HFOSS community engagement. It should tell the full story of your project: who you engaged with, what you contributed, what you found, and what you learned. Figures, diagrams, and appendices are encouraged and do not count toward the page limit.</p>
 
-    <p>Option A teams (single community) will produce a deep analysis of one community. Option B teams (comparative analysis) will analyze 2 communities connected by a common theme. Notes throughout this page indicate where the two options differ.</p>
+    <details class="box-a" open>
+      <summary class="option-label">Option A: Single Community</summary>
+      <p>Will produce a deep analysis of one HFOSS community (see details in <a href="#part-4">Part 4</a>).</p>
+    </details>
+    <details class="box-b" open>
+      <summary class="option-label">Option B: Comparative Analysis</summary>
+      <p>Will analyze two communities connected by a common theme. Throughout this page, <span class="option-label">Option B</span> boxes indicate where your paper should differ from Option A.</p>
+    </details>
 
     <h2>Required Sections</h2>
 
-    <h3>1. Executive Summary <span style="font-weight: normal; font-size: 0.9em;">(~1 page)</span></h3>
-    <p>A concise overview of the entire paper. Cover your project's focus, your key contributions, your main findings, and a brief critical takeaway. Write this last.</p>
-
-    <h3>2. Introduction <span style="font-weight: normal; font-size: 0.9em;">(2-3 pages)</span></h3>
-    <p>Introduce your project and set up the rest of the paper. Include:</p>
-    <ul>
-      <li>Background on your HFOSS community or communities: history, mission, users, and impact</li>
-      <li>Overview of technical architecture and community governance</li>
-      <li>Your team's goals and the questions that guided your engagement</li>
-      <li>The theoretical frameworks you applied</li>
-      <li>A brief roadmap of the paper's structure</li>
-    </ul>
-    <p><strong>Option B:</strong> Introduce each community briefly, then explain the common theme connecting them and why a comparative approach is valuable.</p>
-
-    <h3>3. Community Overview <span style="font-weight: normal; font-size: 0.9em;">(3-4 pages)</span></h3>
-
+    <h3>1. Introduction (1-3 pages)</h3>
+    <p>Introduce your project and set up the rest of the paper. I suggest you write this portion last. You must include:</p>
     <ol>
-      <li><strong>Community Health:</strong> Assess the community's size, diversity, and activity level. Describe its governance model, communication channels, and norms. How does it welcome (or not welcome) newcomers? Support your assessment with evidence: metrics, screenshots, or conversation excerpts.</li>
-      <li><strong>Stakeholder Mapping:</strong> Identify the key stakeholders, e.g., developers, users, funding sources, beneficiaries. Analyze power dynamics: who has voice and influence? Whose needs are prioritized? Who benefits, and who might be excluded? A diagram is strongly recommended here.</li>
-      <li><strong>Engagement Process:</strong> Describe how you introduced yourselves to the community, the relationships you built, and how you navigated community norms. What was the response from maintainers and contributors? What challenges came up, and how did you address them?</li>
+      <li><strong>Background:</strong> briefly describe your HFOSS community or communities, including its history, mission, users, and impact (1-2 paragraphs)</li>
+      <li><strong>Structure:</strong> provide an overview of the technical architecture and community governance. For example, the primary programming languages, key maintainers, decision-making process, and how contributions are reviewed (2-4 paragraphs)</li>
+      <li><strong>Goals &amp; Framework:</strong> describe your team's goals and the questions that guided your engagement, and identify the theoretical framework you chose for your critical analysis and why it is relevant to your community (1-2 paragraphs)</li>
     </ol>
 
-    <p><strong>Option B:</strong> Analyze each community separately across these three areas, then include a brief comparative synthesis at the end of this section highlighting key similarities and differences.</p>
+    <details class="box-b" open>
+      <summary class="option-label">Option B</summary>
+      <p>Introduce each community briefly and separately, then explain the common theme connecting them and why a comparative approach adds value beyond studying either community alone.</p>
+    </details>
 
-    <h3>4. Contribution Documentation <span style="font-weight: normal; font-size: 0.9em;">(3-4 pages)</span></h3>
+    <h3>2. Stakeholder Analysis (2-3 pages)</h3>
 
-    <h4>What You Contributed</h4>
-    <p>Describe each contribution in detail, including your technical approach and the decisions you made along the way. Be specific about division of labor, i.e., who led what. Include links to PRs, commits, issues, and documentation wherever possible.</p>
+    <p>Build a stakeholder analysis of your HFOSS community, expanding on the approach you practiced in Exercise 4. As before, use the three-question filter to decide which groups belong on your map: Does this group's involvement significantly shape the project's direction or impact? Would the project look or work differently if their needs were centered? Would excluding them from your analysis cause you to miss something important?</p>
 
-    <!-- TODO: add a note on what to do if students couldn't make a real contribution. -->
+    <h4>Part A: Written Analysis</h4>
+    <p>Your written analysis should address the following. Together, these observations will also serve as the foundation for your critical analysis in <a href="#part-4">Section 4</a>.</p>
 
-    <h4>Development Process</h4>
-    <p>Walk through your workflow: what tools you used, what technical challenges you encountered and how you solved them, what feedback you received through code review or community interaction, and how you iterated based on that input.</p>
+    <ol>
+      <li><strong>Who:</strong> Identify all key groups involved in or affected by the project, such as developers, maintainers, funders, end users, and beneficiaries. For each group, briefly describe their role and whether they belong to the contributor community, the target/deployment community, or both. <strong>Include at least 8 groups.</strong></li>
+      <li><strong>Power and influence:</strong> Who has decision-making power, and whose voices shape the project's direction? Provide at least one specific example from your engagement that illustrates a power dynamic you observed.</li>
+      <li><strong>Needs and priorities:</strong> Whose needs are centered in the project's design and roadmap? Are there groups whose needs appear underserved or invisible?</li>
+      <li><strong>Benefits and exclusions:</strong> Who benefits from this project, and under what conditions? Who might be excluded, and why?</li>
+    </ol>
 
-    <h4>Impact & Outcomes</h4>
-    <p>Were your contributions merged or accepted? If not, why do you think that is and what did you learn from that? Describe the community's response and any tangible impact on the project. Reflect on the future potential of your work, even if it wasn't merged.</p>
+    <h4>Part B: Diagram</h4>
+    <p>A visual diagram is required and must be included in the Appendix. Your diagram should convey who the stakeholders are, whether they belong to the contributor community, the target/deployment community, or both, and their relative power or influence.</p>
 
-    <p><strong>Option B:</strong> Document contributions to each community separately. In your outcomes discussion, reflect on whether contributing across multiple communities shaped your approach differently than a single-community focus would have.</p>
+    <details class="box-b" open>
+      <summary class="option-label">Option B</summary>
+      <p>You may submit a single combined map and analysis covering both communities. If you do, make sure your diagram clearly labels which stakeholders belong to each community individually and which apply to both. Your written analysis should answer the same seven questions above, but address both communities together where they overlap and separately where they diverge. <strong>Include at least 12 groups total across both communities.</strong></p>
+    </details>
 
-    <h3>5. Critical Analysis <span style="font-weight: normal; font-size: 0.9em;">(4-5 pages)</span></h3>
+    <h3>3. Contribution Documentation (3-4 pages)</h3>
+    <p>Document what your team attempted, built, and learned through the contribution process. This section should be specific and evidence-based. Link to your actual work wherever possible, and be honest about what went as planned and what didn't.</p>
 
-    <p>Choose <strong>one or two</strong> frameworks from the course:</p>
+    <p>Every team member must document at least one contribution <em>attempt</em>. Structure this section by contributor: label each subsection with the team member's name, then address the four points below. If you made more than three contributions, describe your three most significant ones.</p>
+
+    <ol>
+      <li><strong>Contribution Artifacts:</strong> Describe your contribution(s). What you did, what problem or enhancement you addressed, and why it mattered to the project. Include links to PRs, commits, issues, or documentation wherever possible.</li>
+
+      <li><strong>Process:</strong> Describe what tools you used and any challenges you encountered along the way, including how you worked through them.</li>
+
+      <li><strong>Community Interactions:</strong> Did you receive feedback through a code review, issue thread, or any other community channel? If so, how did you respond, and did it change your approach?
+      <p>If you did not receive feedback, reflect on aspects of your contribution where you'd welcome community input, and describe one or two concrete steps you could take to invite that conversation.</p></li>
+
+      <li><strong>Impact &amp; Outcomes:</strong> Were your contributions merged or accepted? If not, why do you think that is and what did you learn from that? Reflect on the future potential of your work, even if it wasn't merged.</li>
+    </ol>
+
+
+    <h3 id="part-4">4. Critical Analysis (4-5 pages)</h3>
+
+   <p>Choose <strong>one</strong> framework from the course to guide your analysis:</p>
 
     <ul>
       <li>Postcolonial Computing</li>
@@ -80,57 +100,93 @@
       <li>Any other framework covered in class</li>
     </ul>
 
-    <p>For each framework, briefly explain it (~1 paragraph), then apply it to analyze the project. Your analysis should address:</p>
-    <ul>
-      <li>What does this lens reveal about the project's design, governance, and impact?</li>
-      <li>What assumptions does the project make?</li>
-      <li>Whose knowledge and values are centered?</li>
-      <li>How does the project navigate power dynamics?</li>
-      <li>What are the project's strengths through this lens? What are its tensions or contradictions?</li>
-    </ul>
+    <p>Begin with a short introductory paragraph (~1 paragraph) explaining your chosen framework in your own words: what it argues, what it highlights, and why it is relevant to your community.</p>
 
-    <p>Across your critical analysis, also address the following:</p>
-    <ul>
-      <li><strong>Technology as amplifier:</strong> what human forces is this technology amplifying?</li>
-      <li><strong>Context:</strong> how does this technology work differently across different settings? Give two examples</li>
-      <li><strong>Sustainability:</strong> how is this project sustained, and what are its vulnerabilities?</li>
-      <li><strong>Participation:</strong> who participates in design and development? Who doesn't, and why? You may limit this to 1-2 examples.</li>
-      <li><strong>Impact:</strong> what is the actual impact on intended beneficiaries? How do we know?</li>
-    </ul>
+    <p>Applying a framework means using its core concepts to interpret your observations, not just describing them again. For example, if you chose Postcolonial Computing and observed in 4.1 that the project is primarily deployed in the Global South but developed in the Global North, the framework would push you to ask: what assumptions about users does that reflect, and whose knowledge and context is being centered or excluded as a result?</p>
 
-    <p>Support all claims with evidence from your experience and observations.</p>
+    <p>Your observations and experiences from Sections 1-3 are your starting point. Throughout the analysis, support your claims with specific evidence from your engagement, your progress logs, and course materials. <strong>Make sure to cite all references clearly.</strong></p>
 
-    <p><strong>Option B:</strong> Apply your frameworks comparatively where possible. What does the lens reveal when you look across communities rather than just within one?</p>
-    <!-- TODO clean up the comparison piece. I think it needs more scaffolding or potentially its own separate section -->
+    <details class="box-a" open>
+      <summary class="option-label">Option A — Single Community</summary>
 
-    <h3>6. Group Reflection <span style="font-weight: normal; font-size: 0.9em;">(1-2 pages)</span></h3>
+      <h4>4.1: Observe</h4>
+      <p>Before applying your framework, document your observations. Answer each of the following based on what you found during your engagement:</p>
+      <ol type="A">
+        <li><strong>Context:</strong> How does this technology work differently across different settings or user populations? Describe at least two examples.</li>
+        <li><strong>Sustainability:</strong> How is this project sustained financially, socially, and technically? What vulnerabilities did you notice?</li>
+        <li><strong>Impact:</strong> What evidence exists of the project's impact on its intended beneficiaries? How confident can you be in that evidence?</li>
+      </ol>
 
-    <p>This section is written collaboratively by the whole team. It will be shared (with your permission) as part of a class-wide living document on HFOSS contribution experiences.</p>
-    <ul>
-      <li>How did your team work together? What collaboration strategies worked well?</li>
-      <li>What was difficult about team coordination, and how did you navigate it?</li>
-      <li>How did you divide labor? Was it equitable?</li>
-      <li>What would you advise future teams or future contributors to this project?</li>
-      <li>What does your experience reveal about HFOSS communities more broadly?</li>
-    </ul>
-    <!-- TODO add more questions on reflecting on the class experience overall, not just the group project -->
+      <h4>4.2: Evaluate</h4>
+      <p>Using your framework, evaluate the project as a whole. Go beyond description: explain what the framework reveals about what you observed.</p>
+      <ol type="A">
+        <li>What are the project's most significant strengths when viewed through your framework? Be specific.</li>
+        <li>Where do you see the most important tensions or missed opportunities? What would need to change for the project to better align with the values your framework foregrounds?</li>
+        <li>What did your framework help you see that you might have missed otherwise? Were there moments where you noticed the framework's own blind spots or limitations?</li>
+      </ol>
+    </details>
 
-    <p><em>NOTE: Individual reflections and peer feedback are submitted separately as your <a href="self-reflection.html">Project Self-Reflection</a>, the second component of your Project Diary.</em></p>
+    <details class="box-b" open>
+      <summary class="option-label">Option B — Comparative Analysis</summary>
 
-    <h3>7. Conclusion <span style="font-weight: normal; font-size: 0.9em;">(~1 page)</span></h3>
-    <ul>
-      <li>Summarize your key findings</li>
-      <li>Reflect on broader implications for ICTD and HFOSS</li>
-      <li>What's next for this project or community?</li>
-      <li>Any final thoughts</li>
-    </ul>
+      <h4>4.1: Observe</h4>
+      <p>Before applying your framework, document your observations across both communities. Answer each of the following based on what you found during your engagement:</p>
+      <ol type="A">
+        <li><strong>Context:</strong> How does each community's technology work differently across settings or user populations? Where do the two communities diverge most?</li>
+        <li><strong>Sustainability:</strong> How do your two communities' approaches to sustainability compare? Which appears more vulnerable, and why?</li>
+        <li><strong>Impact:</strong> How do the two communities define and measure impact? Do they rely on similar or different forms of evidence?</li>
+      </ol>
 
-    <h3>8. References</h3>
-    <p>Cite all sources: course readings, project documentation, community conversations, and any external resources. Use a consistent citation style throughout (APA or IEEE, consistent with your other written work in this course).</p>
-    <!-- TODO add a required section here on disclosing LLM use with a specific format and set of questions. TBD what I want to ask them. -->
+      <h4>4.2: Evaluate</h4>
+      <p>Using your framework, evaluate both communities together. Go beyond description: explain what the framework reveals about what you observed.</p>
+      <ol type="A">
+        <li>What are the most significant strengths of each community when viewed through your framework? Where do they differ, and what might account for that?</li>
+        <li>Where do you see the most important tensions or missed opportunities in each community? Are those tensions related to the same underlying causes, or are they distinct?</li>
+        <li>What did applying your framework to two communities help you see that studying either one alone would not have? Did the comparison surface any limitations or blind spots in the framework itself?</li>
+      </ol>
+    </details>
 
-    <h3>9. Appendices <span style="font-weight: normal; font-size: 0.9em;">(optional, not counted toward page limit)</span></h3>
-    <p>Use appendices for supporting material that would interrupt the flow of the main paper: code samples, screenshots of contributions, community conversation logs, stakeholder maps, or additional visualizations.</p>
+    <h3>5. Group Reflection (1-2 pages)</h3>
+
+    <p>This section is written collaboratively by the whole team. It will be shared (with your permission) as part of a class-wide living document to help future students navigate this class and make meaningful HFOSS contributions.</p>
+
+    <ol>
+      <li>How did you find and choose your HFOSS community? What would you do differently, and what advice would you give future students on picking a good project to work with?</li>
+      <li>What did your onboarding process look like? What helped you get started, and what slowed you down?</li>
+      <li>What practical advice would you give future contributors to this specific project? What do you wish you had known before you started?</li>
+      <li>How did you manage the workload and pacing across the semester? What strategies helped your team stay on track?</li>
+      <li>What is one thing that surprised you about contributing to an HFOSS community, and what should future students be prepared for?</li>
+    </ol>
+
+
+    <p><em>Note: Individual reflections and peer feedback are submitted separately as your <a href="self-reflection.html">Project Self-Reflection</a>, the second component of your Project Diary.</em></p>
+
+    <h3>6. Conclusion (~1 page)</h3>
+    <p>Wrap up your paper by addressing the following:</p>
+    <ol>
+    <li><strong>Key findings:</strong> What are the two or three most important things you learned about your community through your engagement and analysis?</li>
+    <li><strong>Bigger picture:</strong> What does your experience suggest about HFOSS communities more broadly? Is there anything your critical analysis revealed that you think others in the ICTD/HFOSS space should pay attention to?</li>
+    <li><strong>Looking ahead:</strong> Based on what you found, what do you think should happen next, whether for your project, your community, or the field?</li>
+    </ol>
+
+    <h3>7. References (not counted toward page limit)</h3>
+    <p>Cite all sources: course readings, project documentation, community conversations, and any external resources. Use a consistent citation style throughout (APA or IEEE).</p>
+
+    <h4>AI/LLM DISCLOSURE</h4>
+    <p>If your team used any AI tools (e.g., ChatGPT, Claude, Perplexity, Copilot) at any point while working on this paper, you must disclose this at the end of your references section. Per the <a href="../index.html">course policy</a>, AI may be used to refine clarity or check grammar, but all analysis, argumentation, and writing must be substantially your own.</p>
+    <p><strong>Your disclosure must answer the following:</strong></p>
+    <ol>
+      <li>Which tools did you use, and at what stage of the writing process?</li>
+      <li>What did you use them for specifically (e.g., grammar checking, outlining, rephrasing)?</li>
+      <li>Which sections, if any, were influenced by AI-generated suggestions?</li>
+    </ol>
+    <p><strong>If you did not use any AI tools, you <em>must</em> include a brief statement confirming this.</strong></p>
+
+    <p>Failure to disclose AI use constitutes academic misconduct. Double-check all references carefully. Hallucinated or fabricated citations will result in a grade penalty of up to 50% on this assignment.</p>
+
+    <h3>8. Appendices (not counted toward page limit)</h3>
+    <p>Use appendices for supporting material that would interrupt the flow of the main paper: code samples, screenshots of contributions, community conversation logs, or additional visualizations.</p>
+    <p>This section must include, at a minimum, your stakeholder map. Label each figure with a brief title and caption so it can be referenced from the main text.</p>
 
     <h2>Grading</h2>
 
@@ -141,52 +197,44 @@
         <tr>
           <th>Component</th>
           <th>Points</th>
+          <th>What we're looking for</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>Community Analysis</td>
-          <td>15</td>
+          <td>Stakeholder Analysis</td>
+          <td>20</td>
+          <td>Thorough, evidence-based, and stakeholder-aware. Goes beyond surface-level description to analyze power, inclusion, and governance.</td>
         </tr>
         <tr>
           <td>Contribution Documentation</td>
-          <td>15</td>
+          <td>20</td>
+          <td>Clear, detailed, and honest about outcomes, including contributions that weren't merged or didn't go as planned.</td>
         </tr>
         <tr>
           <td>Critical Analysis</td>
-          <td>25</td>
+          <td>30</td>
+          <td>Deep, thoughtful application of a course framework. Moves beyond summary to genuine critique and insight, grounded in specific evidence from your engagement.</td>
         </tr>
         <tr>
           <td>Group Reflection</td>
-          <td>10</td>
+          <td>20</td>
+          <td>Honest, collaborative, and specific. Demonstrates genuine collective learning and offers useful, concrete advice for future students and contributors.</td>
         </tr>
         <tr>
           <td>Writing Quality</td>
           <td>10</td>
-        </tr>
-        <tr>
-          <td>Individual Accountability</td>
-          <td>25</td>
+          <td>Clear, organized, and professional. Well-cited, consistent in style, and readable.</td>
         </tr>
       </tbody>
       <tfoot>
         <tr>
           <td>Total</td>
           <td>100</td>
+          <td></td>
         </tr>
       </tfoot>
     </table>
-
-    <!-- TODO: move the descriptions to the table so the table will have 3 columns -->
-
-    <ul>
-      <li><strong>Community Analysis (15):</strong> Thorough, evidence-based, and stakeholder-aware. Goes beyond surface-level description to analyze power, inclusion, and governance.</li>
-      <li><strong>Contribution Documentation (15):</strong> Clear, detailed, and honest about outcomes — including contributions that weren't merged or didn't go as planned.</li>
-      <li><strong>Critical Analysis (25):</strong> Deep, thoughtful application of at least two course frameworks. Moves beyond summary to genuine critique and insight, supported by evidence from your experience.</li>
-      <li><strong>Group Reflection (10):</strong> Honest, collaborative, and specific. Demonstrates genuine collective learning rather than generic takeaways.</li>
-      <li><strong>Writing Quality (10):</strong> Clear, organized, and professional. Well-cited, consistent in style, and readable.</li>
-      <li><strong>Individual Accountability (25):</strong> Division of labor is transparent throughout the paper. Each team member's contributions are traceable and substantial.</li>
-    </ul>
 
     <h2>Submission</h2>
 
@@ -209,6 +257,6 @@
 
     <p>You may share and adapt these materials for any purpose, provided you give credit, link to the license, and distribute derivatives under the same license.</p>
 
-    <p><em>Last updated:</em> March 2026</p>
+    <p><em>Last updated:</em> April 2026</p>
   </footer>
 </html>
